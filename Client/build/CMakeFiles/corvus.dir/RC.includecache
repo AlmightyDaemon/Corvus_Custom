@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Malware/Desktop/New_Corvus/Client/build/embedded_resource_generated.rc
+../include/resources.h
+C:/Users/Malware/Desktop/New_Corvus/Client/include/resources.h
+
+C:/Users/Malware/Desktop/New_Corvus/Client/include/resources.h
+

