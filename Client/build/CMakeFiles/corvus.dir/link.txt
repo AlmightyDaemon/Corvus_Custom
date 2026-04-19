@@ -1,3 +1,3 @@
 "C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\corvus.dir/objects.a
 C:\ProgramData\mingw64\mingw64\bin\ar.exe qc CMakeFiles\corvus.dir/objects.a @CMakeFiles\corvus.dir\objects1.rsp
-C:\ProgramData\mingw64\mingw64\bin\g++.exe -Os -s -Wl,--gc-sections -fdata-sections -ffunction-sections  -static -Wl,--whole-archive CMakeFiles\corvus.dir/objects.a -Wl,--no-whole-archive -o corvus.exe -Wl,--out-implib,libcorvus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\corvus.dir\linkLibs.rsp
+C:\ProgramData\mingw64\mingw64\bin\g++.exe -Os -s -Wl,--gc-sections -fdata-sections -ffunction-sections  -static -mwindows -Wl,--whole-archive CMakeFiles\corvus.dir/objects.a -Wl,--no-whole-archive -o corvus.exe -Wl,--out-implib,libcorvus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\corvus.dir\linkLibs.rsp
